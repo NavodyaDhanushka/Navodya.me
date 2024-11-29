@@ -1158,6 +1158,13 @@
 .icon-instagram:before {
   content: "\f16d";
 }
+.bi-linkedin:before {
+  content: "\f16d";
+}
+.bi-github:before {
+  content: "\f16d"; /* This is for Font Awesome */
+}
+
 .icon-flickr:before {
   content: "\f16e";
 }
