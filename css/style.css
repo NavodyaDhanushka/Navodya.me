@@ -9049,8 +9049,10 @@ textarea.form-control {
       padding-bottom: 5em; } }
 
 .ftco-animate {
-  opacity: 0;
-  visibility: hidden; }
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
 
 .bg-primary {
   background: #ffbd39 !important; }
