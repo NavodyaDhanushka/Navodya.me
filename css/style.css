@@ -9351,6 +9351,10 @@ textarea.form-control {
     font-size: 18px;
     padding-top: 2px;
     color: white; }
+.email-icon {
+  margin-right: 8px; /* Adjust space as needed */
+}
+
 
 .block-6 {
   margin-bottom: 40px; }
